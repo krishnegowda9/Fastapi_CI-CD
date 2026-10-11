@@ -20,7 +20,13 @@ def students():
             "Kiccha Suddep",
             "Power Star Punith",
             "Rebel Star Ambresh",
-            "Rishab Shetty"
+            "Rishab Shetty",
+            "ELON musk",
+            "Sundar Pichai",
+            "Satya Nadella",
+            "Bill Gates",
+            "Mark Zuckerberg",
+            "Jeff Bezos",
         ]
     }
 
